@@ -69,3 +69,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+Link del video
+https://youtu.be/DyhV8k9k60Y
